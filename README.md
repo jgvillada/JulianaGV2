@@ -3,9 +3,9 @@
 
 **Estudiante de Ingeniería Industrial de la Universidad de Antioquia** 💻😊
 
-Especialmente interesada en el énfasis de analítica para la cual la programación es fuente de ayuda en tal propósito que implica el manejo de bases de datos de diferentes dimensiones y su estudio para la toma de decisiones.  
+Apasionada por la analítica con un enfoque en la toma de decisiones basada en datos. Considero la programación como una herramienta fundamental para abordar el análisis de bases de datos de diferentes tamaños y estructuras, facilitando la extracción de información relevante y la generación de valor a partir de los datos.
 
-El contenido es un suporte de herramientas aprendidas desde el apoyo universitario a lo largo de mi carrera y mi sentido autodidacta. 
+Este repositorio reúne herramientas y proyectos desarrollados a lo largo de mi formación universitaria, complementados por mi iniciativa autodidacta y mi interés constante en seguir aprendiendo.
 
 ## Contacto
 
@@ -27,8 +27,8 @@ El contenido es un suporte de herramientas aprendidas desde el apoyo universitar
 
 ### 🚀 Lenguajes e intereses 
 
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 ![Static Badge](https://img.shields.io/badge/Lenguaje%20de%20programacion%20R%20-%20blue)
 ![Static Badge](https://img.shields.io/badge/Microsoft%20-%20orange)
 ![Static Badge](https://img.shields.io/badge/Excel-green?style=flat)
