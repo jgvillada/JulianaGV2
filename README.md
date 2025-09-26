@@ -38,8 +38,4 @@ Este repositorio reúne herramientas y proyectos desarrollados a lo largo de mi 
 
 <a href="https://github.com/0xabdulkhalid/">
 
-</a>
-</div>
-<br>
-
 **¡Aprenderemos juntos!**
