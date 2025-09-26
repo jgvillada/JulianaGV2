@@ -29,7 +29,6 @@ Este repositorio reúne herramientas y proyectos desarrollados a lo largo de mi 
 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
-![Static Badge](https://img.shields.io/badge/Lenguaje%20de%20programacion%20R%20-%20blue)
 ![Static Badge](https://img.shields.io/badge/Microsoft%20-%20orange)
 ![Static Badge](https://img.shields.io/badge/Excel-green?style=flat)
 
