@@ -40,13 +40,6 @@ Este repositorio reúne herramientas y proyectos desarrollados a lo largo de mi 
 
 </a>
 </div>
-
-<br>
-<br>
-<br>
-
------
-
 <br>
 
 **¡Aprenderemos juntos!**
