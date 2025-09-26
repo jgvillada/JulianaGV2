@@ -11,7 +11,7 @@ Este repositorio reúne herramientas y proyectos desarrollados a lo largo de mi 
 
 [![Email](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juliana.garciav@udea.edu.co)
 [![Email](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:julianagv4913@gmail.com)
-[![GithubPersonal](https://img.shields.io/badge/Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JulianaGV2/JulianaGV2) 
+[![GithubPersonal](https://img.shields.io/badge/Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jgvillada/jgvillada)
 
 ## **Sobre mi:**
 
